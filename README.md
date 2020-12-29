@@ -4,4 +4,5 @@ Die **Business Process Model and Notation** (BPMN, deutsch Geschäftsprozessmode
 in der **Wirtschaftsinformatik** und im Prozessmanagement. Sie stellt Symbole zur Verfügung, mit denen Fach-, Methoden- und Informatikspezialisten 
 **Geschäftsprozesse** und Arbeitsabläufe **modellieren** und **dokumentieren** können. 
 
-In diesem Repository sind Beispiele für die modellierung von Geschäftsprozessen mit BPMN.
+In diesem Repository sind zwei Beispiele für die mModellierung von Geschäftsprozessen mit BPMN.
+Beide Beispiele sind von mir erstellt und von mir zensiert, da sie sensibele Geschäftsprozesse abbilden.
